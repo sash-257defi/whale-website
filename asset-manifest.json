@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/whaleup-website/static/css/main.2f87e8f1.css",
-    "main.js": "/whaleup-website/static/js/main.8d9ff0dc.js",
-    "static/media/allocation.png": "/whaleup-website/static/media/allocation.3d961be2a1999da958a4.png",
-    "static/media/whaleup-logo.svg": "/whaleup-website/static/media/whaleup-logo.f62913bd008ed3dbc1beceb9fa7628e7.svg",
-    "static/media/home-bg.jpg": "/whaleup-website/static/media/home-bg.39c9f1f30b2049c3a363.jpg",
-    "static/media/01.jpeg": "/whaleup-website/static/media/01.34e4ff422fd51cfc60a4.jpeg",
-    "static/media/exchange.png": "/whaleup-website/static/media/exchange.5325926d0613bffd8dd2.png",
-    "static/media/blockchain.png": "/whaleup-website/static/media/blockchain.0ce4e11437cb2512d863.png",
-    "static/media/web3.png": "/whaleup-website/static/media/web3.ec0167dabbd7531c5a6c.png",
-    "static/media/diagram.png": "/whaleup-website/static/media/diagram.906e6629eba97d8bb9b5.png",
-    "index.html": "/whaleup-website/index.html",
-    "main.2f87e8f1.css.map": "/whaleup-website/static/css/main.2f87e8f1.css.map",
-    "main.8d9ff0dc.js.map": "/whaleup-website/static/js/main.8d9ff0dc.js.map"
+    "main.css": "/whale-website/static/css/main.2f87e8f1.css",
+    "main.js": "/whale-website/static/js/main.5e0f9476.js",
+    "static/media/allocation.png": "/whale-website/static/media/allocation.3d961be2a1999da958a4.png",
+    "static/media/whaleup-logo.svg": "/whale-website/static/media/whaleup-logo.f62913bd008ed3dbc1beceb9fa7628e7.svg",
+    "static/media/home-bg.jpg": "/whale-website/static/media/home-bg.39c9f1f30b2049c3a363.jpg",
+    "static/media/01.jpeg": "/whale-website/static/media/01.34e4ff422fd51cfc60a4.jpeg",
+    "static/media/exchange.png": "/whale-website/static/media/exchange.5325926d0613bffd8dd2.png",
+    "static/media/blockchain.png": "/whale-website/static/media/blockchain.0ce4e11437cb2512d863.png",
+    "static/media/web3.png": "/whale-website/static/media/web3.ec0167dabbd7531c5a6c.png",
+    "static/media/diagram.png": "/whale-website/static/media/diagram.906e6629eba97d8bb9b5.png",
+    "index.html": "/whale-website/index.html",
+    "main.2f87e8f1.css.map": "/whale-website/static/css/main.2f87e8f1.css.map",
+    "main.5e0f9476.js.map": "/whale-website/static/js/main.5e0f9476.js.map"
   },
   "entrypoints": [
     "static/css/main.2f87e8f1.css",
-    "static/js/main.8d9ff0dc.js"
+    "static/js/main.5e0f9476.js"
   ]
 }
