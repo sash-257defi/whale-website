@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f87e8f1.css",
+    "main.js": "/static/js/main.831e215b.js",
+    "static/media/allocation.png": "/static/media/allocation.3d961be2a1999da958a4.png",
+    "static/media/whaleup-logo.svg": "/static/media/whaleup-logo.f62913bd008ed3dbc1beceb9fa7628e7.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.39c9f1f30b2049c3a363.jpg",
+    "static/media/01.jpeg": "/static/media/01.34e4ff422fd51cfc60a4.jpeg",
+    "static/media/exchange.png": "/static/media/exchange.5325926d0613bffd8dd2.png",
+    "static/media/blockchain.png": "/static/media/blockchain.0ce4e11437cb2512d863.png",
+    "static/media/web3.png": "/static/media/web3.ec0167dabbd7531c5a6c.png",
+    "static/media/diagram.png": "/static/media/diagram.906e6629eba97d8bb9b5.png",
+    "index.html": "/index.html",
+    "main.2f87e8f1.css.map": "/static/css/main.2f87e8f1.css.map",
+    "main.831e215b.js.map": "/static/js/main.831e215b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f87e8f1.css",
+    "static/js/main.831e215b.js"
+  ]
+}
