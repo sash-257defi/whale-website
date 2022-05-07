@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/whale-website/static/css/main.2f87e8f1.css",
-    "main.js": "/whale-website/static/js/main.f2c4b7f8.js",
+    "main.js": "/whale-website/static/js/main.c7c752a7.js",
     "static/media/allocation.png": "/whale-website/static/media/allocation.3d961be2a1999da958a4.png",
     "static/media/whaleup-logo.svg": "/whale-website/static/media/whaleup-logo.f62913bd008ed3dbc1beceb9fa7628e7.svg",
     "static/media/home-bg.jpg": "/whale-website/static/media/home-bg.39c9f1f30b2049c3a363.jpg",
@@ -12,10 +12,10 @@
     "static/media/diagram.png": "/whale-website/static/media/diagram.906e6629eba97d8bb9b5.png",
     "index.html": "/whale-website/index.html",
     "main.2f87e8f1.css.map": "/whale-website/static/css/main.2f87e8f1.css.map",
-    "main.f2c4b7f8.js.map": "/whale-website/static/js/main.f2c4b7f8.js.map"
+    "main.c7c752a7.js.map": "/whale-website/static/js/main.c7c752a7.js.map"
   },
   "entrypoints": [
     "static/css/main.2f87e8f1.css",
-    "static/js/main.f2c4b7f8.js"
+    "static/js/main.c7c752a7.js"
   ]
 }
