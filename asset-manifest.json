@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.2f87e8f1.css",
-    "main.js": "/static/js/main.a1d73a53.js",
+    "main.js": "/static/js/main.42f1b77f.js",
     "static/js/787.6115addd.chunk.js": "/static/js/787.6115addd.chunk.js",
-    "static/media/allocation.png": "/static/media/allocation.3d961be2a1999da958a4.png",
+    "static/media/allocation.png": "/static/media/allocation.0593f0726e189ac96b33.png",
     "static/media/whaleup-logo.svg": "/static/media/whaleup-logo.f62913bd008ed3dbc1beceb9fa7628e7.svg",
     "static/media/home-bg.jpg": "/static/media/home-bg.39c9f1f30b2049c3a363.jpg",
     "static/media/01.jpeg": "/static/media/01.34e4ff422fd51cfc60a4.jpeg",
@@ -13,11 +13,11 @@
     "static/media/diagram.png": "/static/media/diagram.906e6629eba97d8bb9b5.png",
     "index.html": "/index.html",
     "main.2f87e8f1.css.map": "/static/css/main.2f87e8f1.css.map",
-    "main.a1d73a53.js.map": "/static/js/main.a1d73a53.js.map",
+    "main.42f1b77f.js.map": "/static/js/main.42f1b77f.js.map",
     "787.6115addd.chunk.js.map": "/static/js/787.6115addd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f87e8f1.css",
-    "static/js/main.a1d73a53.js"
+    "static/js/main.42f1b77f.js"
   ]
 }
