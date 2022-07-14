@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7f759c74.css",
-    "main.js": "/static/js/main.c954437a.js",
+    "main.js": "/static/js/main.02f23556.js",
     "static/js/787.6753f41b.chunk.js": "/static/js/787.6753f41b.chunk.js",
     "static/media/news-2.png": "/static/media/news-2.7c9987e0e6787bcb2fd8.png",
     "static/media/news-4.jpeg": "/static/media/news-4.c3bf29d55bd48118cd0c.jpeg",
@@ -19,11 +19,11 @@
     "static/media/whaleup-logo.svg": "/static/media/whaleup-logo.4a85bbbb8320e9072250194e5d0d7556.svg",
     "index.html": "/index.html",
     "main.7f759c74.css.map": "/static/css/main.7f759c74.css.map",
-    "main.c954437a.js.map": "/static/js/main.c954437a.js.map",
+    "main.02f23556.js.map": "/static/js/main.02f23556.js.map",
     "787.6753f41b.chunk.js.map": "/static/js/787.6753f41b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f759c74.css",
-    "static/js/main.c954437a.js"
+    "static/js/main.02f23556.js"
   ]
 }
