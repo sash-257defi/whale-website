@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7f759c74.css",
-    "main.js": "/static/js/main.02f23556.js",
+    "main.js": "/static/js/main.5b35e1ac.js",
     "static/js/787.6753f41b.chunk.js": "/static/js/787.6753f41b.chunk.js",
     "static/media/news-2.png": "/static/media/news-2.7c9987e0e6787bcb2fd8.png",
     "static/media/news-4.jpeg": "/static/media/news-4.c3bf29d55bd48118cd0c.jpeg",
@@ -9,7 +9,6 @@
     "static/media/whaleup-logo-1.svg": "/static/media/whaleup-logo-1.f62913bd008ed3dbc1beceb9fa7628e7.svg",
     "static/media/news-1.jpeg": "/static/media/news-1.535b6140930808b2972e.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.c2fa39d7bee582945502.jpg",
-    "static/media/countdown.png": "/static/media/countdown.b3d633f205f3e5afad4b.png",
     "static/media/01.jpeg": "/static/media/01.34e4ff422fd51cfc60a4.jpeg",
     "static/media/exchange.png": "/static/media/exchange.5325926d0613bffd8dd2.png",
     "static/media/news-3.jpeg": "/static/media/news-3.8e48b341d71ecfae1d42.jpeg",
@@ -19,11 +18,11 @@
     "static/media/whaleup-logo.svg": "/static/media/whaleup-logo.4a85bbbb8320e9072250194e5d0d7556.svg",
     "index.html": "/index.html",
     "main.7f759c74.css.map": "/static/css/main.7f759c74.css.map",
-    "main.02f23556.js.map": "/static/js/main.02f23556.js.map",
+    "main.5b35e1ac.js.map": "/static/js/main.5b35e1ac.js.map",
     "787.6753f41b.chunk.js.map": "/static/js/787.6753f41b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f759c74.css",
-    "static/js/main.02f23556.js"
+    "static/js/main.5b35e1ac.js"
   ]
 }
